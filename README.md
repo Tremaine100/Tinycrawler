@@ -3,7 +3,9 @@
 Requirments
 
 Python 2.7 or Higher
+
 How to Crawl ?
+
 Open Python Console
 
 Enter name Of File  Enter URL of Site You Want to crawl(e.g http://sitename.com)
