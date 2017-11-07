@@ -1,8 +1,10 @@
 # Tinycrawler
 
+Added Python 3 script
+
 Requirments
 
-Python 2.7 or Higher
+Python 2.7.x & Python 3.x
 
 How to Crawl ?
 
@@ -10,6 +12,6 @@ Open Python Console
 
 Enter name Of File  Enter URL of Site You Want to crawl(e.g http://sitename.com)
 
-Click On Link to download Python 2
+Click On Link to download Python 
 
-https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi
+https://www.python.org/downloads/
